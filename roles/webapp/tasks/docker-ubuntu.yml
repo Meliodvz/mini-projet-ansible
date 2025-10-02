@@ -38,7 +38,7 @@
   services:
     name: docker
     state: started
-    enabled: yes
+    # enabled: yes
 
 - name: add user to docker group
   user:
