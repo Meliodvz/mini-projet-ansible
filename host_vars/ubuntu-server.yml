@@ -1,4 +1,4 @@
-ansible_host: 10.0.75.4
-ansible_password: admin
+ansible_host: 13.38.249.56
+ansible_password: Korpo98@
 ansible_become: true
-ansible_become_password: admin
+ansible_become_password: Korpo98@
